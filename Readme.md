@@ -8,6 +8,11 @@ In Cerebro, type "weather" followed by the location you want to search for its f
 
 ![Sample](screenshot.png)
 
+## Roadmap
+
+- [ ] Configurable API key (wunderground limits its API calls)
+- [ ] Display **forecast preview**
+
 ## License
 
 MIT © [Tiago Amaro](http://tiagoamaro.com.br)
