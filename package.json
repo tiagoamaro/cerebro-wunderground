@@ -1,13 +1,13 @@
 {
-  "name": "cerebro-plugin",
-  "version": "0.0.2",
+  "name": "cerebro-wunderground",
+  "version": "0.0.1",
   "description": "",
   "license": "MIT",
-  "repository": "KELiON/cerebro-plugin",
+  "repository": "tiagoamaro/cerebro-wunderground",
   "author": {
-    "name": "Alexandr Subbotin",
-    "email": "kelionweb@gmail.com",
-    "url": "asubbotin.ru"
+    "name": "Tiago Amaro",
+    "email": "tiagopadrela@gmail.com",
+    "url": "tiagoamaro.com.br"
   },
   "engines": {
     "node": ">=4"
@@ -21,7 +21,8 @@
   "main": "dist/index.js",
   "keywords": [
     "cerebro",
-    "cerebro-plugin"
+    "cerebro-plugin",
+    "cerebro-wunderground"
   ],
   "devDependencies": {
     "babel-cli": "^6.18.0",
