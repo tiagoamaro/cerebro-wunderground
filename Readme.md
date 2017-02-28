@@ -1,6 +1,6 @@
 # cerebro-wunderground
 
-> [Cerebro](https://cerebroapp.com) plugin to search forecasts on [Wunderground](https://www.wunderground.com)
+> Cerebro plugin to search forecasts on Wunderground
 
 ## Usage
 
